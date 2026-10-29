@@ -45,8 +45,8 @@ ml-practice/
 4. Выполнить ячейки ноутбука по порядку.
 
 ```
-git clone https://github.com/ВАШ_ЛОГИН/ИМЯ_РЕПОЗИТОРИЯ.git
-cd ИМЯ_РЕПОЗИТОРИЯ
+git clone https://github.com/searchers1221-lang/ml-su-course3.git
+cd ml-su-course3
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 pip install -r requirements.txt
